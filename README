@@ -1,0 +1,6 @@
+Hand draw a maze, click and save its picture.
+Program converts image to map and finds path from left-bottom point to right-top point of maze using RRT.
+
+Run mapExtract.m
+
+* To use another picture, save it in the project diretory and change name of image file in mapExtract.m
